@@ -1,0 +1,71 @@
+[
+    {
+        "Id": 1,
+        "Description": "Who is the CEO of Google?",
+        "correctAnswerId": 2,
+        "options": [
+            {
+                "Id": 1,
+                "OptionText": "Salil Parekh"
+            },
+            {
+                "Id": 2,
+                "OptionText": "Sundar Pichai"
+            },
+            {
+                "Id": 3,
+                "OptionText": "Abidali Neemuchwala"
+            },
+            {
+                "Id": 4,
+                "OptionText": "Tim Cook"
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Description": "Who is the Prime Minister of India?",
+        "correctAnswerId": 3,
+        "options": [
+            {
+                "Id": 1,
+                "OptionText": "Ram Nath Kovind"
+            },
+            {
+                "Id": 2,
+                "OptionText": "Li Keqiang"
+            },
+            {
+                "Id": 3,
+                "OptionText": "Narendra Modi"
+            },
+            {
+                "Id": 4,
+                "OptionText": "Venkaiah Naidu"
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Description": "Which of these is not an Object Oriented Construct?",
+        "correctAnswerId": 2,
+        "options": [
+            {
+                "Id": 1,
+                "OptionText": "Polymorphism"
+            },
+            {
+                "Id": 2,
+                "OptionText": "Core Java"
+            },
+            {
+                "Id": 3,
+                "OptionText": "Inheritance"
+            },
+            {
+                "Id": 4,
+                "OptionText": "Abstraction"
+            }
+        ]
+    }
+]
